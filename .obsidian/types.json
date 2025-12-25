@@ -1,0 +1,12 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "topics": "multitext",
+    "type": "multitext",
+    "Prerequisites": "multitext",
+    "Sources": "multitext",
+    "Applies To": "multitext"
+  }
+}
