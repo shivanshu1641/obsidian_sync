@@ -1,5 +1,3 @@
 views:
   - type: table
     name: Table
-  - type: table
-    name: View
