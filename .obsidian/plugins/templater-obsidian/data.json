@@ -16,7 +16,7 @@
   "folder_templates": [
     {
       "folder": "Notes",
-      "template": "_templates/concepts.md"
+      "template": "_templates/excal_template.md"
     }
   ],
   "enable_file_templates": false,
@@ -24,13 +24,15 @@
     {
       "regex": ".*",
       "template": ""
+    },
+    {
+      "regex": "",
+      "template": ""
     }
   ],
   "syntax_highlighting": true,
   "syntax_highlighting_mobile": false,
-  "enabled_templates_hotkeys": [
-    ""
-  ],
+  "enabled_templates_hotkeys": [],
   "startup_templates": [
     ""
   ],

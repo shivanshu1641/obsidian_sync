@@ -1,5 +1,8 @@
 [
   "obsidian-git",
   "obsidian-excalidraw-plugin",
-  "templater-obsidian"
+  "update-time-on-edit",
+  "templater-obsidian",
+  "obsidian-minimal-settings",
+  "editing-toolbar"
 ]

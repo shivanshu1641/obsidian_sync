@@ -4,6 +4,8 @@ tags:
   - classical-ai
   - wip
 type: concept
-created:
-  "{ date }"
+created: 2025-12-25T15:05
+updated: 2025-12-25T15:12
+---
+
 ---
