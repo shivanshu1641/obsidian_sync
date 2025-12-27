@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "955f84c6b161f6b2",
+        "id": "86e76e19688bc7d7",
         "type": "tabs",
         "children": [
           {
-            "id": "aebcafeb54c3c391",
+            "id": "11c666e62ea8701e",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:Daily Note",
+                "query": "tag:#Study",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5
+    "width": 435.5
   },
   "right": {
     "id": "69e5223beb049438",
@@ -193,8 +193,58 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "52c514d8b912b602",
+  "floating": {
+    "id": "736ecdde4bd3acd1",
+    "type": "floating",
+    "children": [
+      {
+        "id": "2c986e7d31aa7c66",
+        "type": "window",
+        "children": [
+          {
+            "id": "070fcd392e7c0740",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "aebcafeb54c3c391",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Notes/2025_12_25 0619 LLM Day 1.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "2025_12_25 0619 LLM Day 1"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 471,
+        "y": 61,
+        "width": 848,
+        "height": 910,
+        "maximize": false,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e35fb23225c45e2c",
   "lastOpenFiles": [
+    "Notes/2025_12_25 0619 LLM Day 1.md",
+    "Notes/transformer.md",
+    "Notes/Transformers.md",
+    "Notes/2025_12_25 0620.md",
+    "Notes/2025_12_25 0620 LLM Embeddings Vectors.svg",
+    "Notes/2025_12_25 0620 LLM Embeddings Vectors.restored.svg",
+    "Notes/2025_12_25 0620 LLM Embeddings Vectors.md",
+    "Notes/2025_12_25 0619 LLM Day 1.svg",
+    "Excalidraw/Drawing 2025-12-25 19.25.07.svg",
+    "Excalidraw/Drawing 2025-12-25 19.25.07.md",
+    "Excalidraw",
+    "Attachment/IMG-20251226-WA0000.jpg",
+    "Attachment",
     "Notes/2025_12_25 0616.md",
     "Notes/202512251803.md",
     "_templates/daily_template.md",
@@ -213,34 +263,21 @@
     "Notes/Acad/Kaggle C1/Untitled 1.md",
     "Notes/Acad/Kaggle C1/Untitled.md",
     "Notes/Acad/Kaggle C1/New Note.md",
-    "Notes/Acad/Kaggle C1/Dynamic File Test.svg",
     "Test File.md",
     "Welcome.md",
     "Untitled.base",
-    "Notes/Acad/Kaggle C1/new title.svg",
-    "Notes/Acad/Kaggle C1/Untitled 1.svg",
     "Notes/Acad/Kaggle C1/{{Untitled 1}}.svg.md",
     "Excalidraw/Drawing 2025-12-25 15.13.15.excalidraw.md",
     "Notes/Acad/Kaggle C1/title.md",
     "Notes/Acad/Kaggle C1/Title Changed.md",
     "Notes/Acad/Kaggle C1/Basic DL.md",
     "Notes/Acad/Kaggle C1/Drawing 2025-12-25 15.26.21.excalidraw.md",
-    "Notes/Acad/Kaggle C1/Basic DL.excalidraw.md",
     "Notes/Acad/Kaggle C1/Untitled",
-    "Notes/Acad/Kaggle C1/Base D.md",
-    "Excalidraw/Drawing 2025-12-25 15.08.02.excalidraw.md",
     "_templates/Untitled.base",
-    "Notes/Acad/Kaggle C1/Base D.md",
-    "Excalidraw",
-    "Excalidraw/Scripts/Downloaded/Set Link Alias.svg",
-    "Excalidraw/Scripts/Downloaded/Set Link Alias.md",
-    "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "_templates",
     "Untitled 2.base",
-    "Untitled 1.base",
     "Untitled.canvas"
   ]
 }

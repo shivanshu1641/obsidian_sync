@@ -4,5 +4,7 @@
   "update-time-on-edit",
   "templater-obsidian",
   "obsidian-minimal-settings",
-  "editing-toolbar"
+  "editing-toolbar",
+  "colored-tags",
+  "dataview"
 ]
