@@ -14,16 +14,13 @@ Status: TBD
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- ajsndjs
-- as d
+- 
 ---
 ## Other Notes
-- Note 1
-- NOte 2
+- 
 ---
 ## Resources
-- aksd
-- askasd
+- 
 # Excalidraw Data
 
 ## Text Elements

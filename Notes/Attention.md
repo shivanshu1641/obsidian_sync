@@ -4,6 +4,7 @@ updated: 2025-12-25T18:01
 excalidraw-plugin: parsed
 tags:
   - Study
+  - AI/DL/Attention
 topics:
   - "[[AI]]"
 type:
@@ -14,19 +15,21 @@ Prerequisites:
   - "[[RNN]]"
   - "[[Embeddings]]"
 Sources:
+  - "[[3b1b]]"
 Applies To:
+  - "[[Transformers]]"
+  - "[[Kaggle LLM Day 1]]"
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- Attention 
+- [[Attention]] 
 - [[Transformers]]
 - ---
 ## Other Notes
 - [[RNN]]
 ---
 ## Resources
-- aksd
-- askasd
+- [[3b1b]] https://www.youtube.com/watch?v=eMlx5fFNoYc
 # Excalidraw Data
 
 ## Text Elements

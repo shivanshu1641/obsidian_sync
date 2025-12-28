@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "b75baa28354412b8",
+        "id": "95a3407ad36e0b64",
         "type": "tabs",
         "children": [
           {
-            "id": "4a2d821278f88069",
+            "id": "03347977c4199f7f",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -201,22 +201,37 @@
         "type": "window",
         "children": [
           {
-            "id": "8d822b45955a8d85",
+            "id": "203d659b1bde2735",
             "type": "tabs",
             "children": [
               {
-                "id": "edabd59e49df91bb",
+                "id": "4a2d821278f88069",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Transformers.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Transformers"
+                }
+              },
+              {
+                "id": "32b79a06c181c63c",
                 "type": "leaf",
                 "state": {
                   "type": "excalidraw",
                   "state": {
-                    "file": "Notes/Agents Day 3 Kaggle llm.md"
+                    "file": "Notes/Attention.md"
                   },
                   "icon": "excalidraw-icon",
-                  "title": "Agents Day 3 Kaggle llm"
+                  "title": "Attention"
                 }
               }
-            ]
+            ],
+            "currentTab": 1
           }
         ],
         "direction": "vertical",
@@ -229,12 +244,17 @@
       }
     ]
   },
-  "active": "e35fb23225c45e2c",
+  "active": "03347977c4199f7f",
   "lastOpenFiles": [
+    "_templates/daily_template.md",
+    "_templates/template.md",
+    "Notes/Attention.md",
+    "Notes/Transformers.md",
+    "Notes/Agents Day 3 Kaggle llm.md",
+    "Attachment/IMG-20251228-WA0002.jpg",
     "Notes/Books To read.md",
     "Notes/Kaggle LLM Day 2 Embeddings Vectors.md",
     "Notes/Kaggle LLM Day 1.md",
-    "Notes/Agents Day 3 Kaggle llm.md",
     "Notes/Agents Day 3 Kaggle llm.svg",
     "Notes/Random Notes.svg",
     "Notes/SecLm MedLm.svg",
@@ -248,16 +268,12 @@
     "Notes/Kaggle LLM Day 2 Embeddings Vectors.svg",
     "Notes/2025_12_25 0620.md",
     "Notes/2025_12_25 0619 LLM Day 1.svg",
-    "Attachment/IMG-20251226-WA0000.jpg",
     "Notes/transformer.md",
-    "Notes/Transformers.md",
     "Excalidraw/Drawing 2025-12-25 19.25.07.md",
     "Excalidraw",
     "Attachment",
     "Notes/2025_12_25 0616.md",
     "Notes/202512251803.md",
-    "_templates/daily_template.md",
-    "_templates/template.md",
     "_templates/concepts.md",
     "_templates/AI]] [[Neuro Science]] [[Maths.md",
     "_templates/excal_template.restored.md",
