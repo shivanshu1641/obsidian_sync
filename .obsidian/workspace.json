@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "227cc52997110240",
+        "id": "8d8165e3642d0604",
         "type": "tabs",
         "children": [
           {
-            "id": "8f5d08d8a7aa371e",
+            "id": "edabd59e49df91bb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "Kaggle LLM Day 1"
             }
-          },
-          {
-            "id": "704d8254827b1b0e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -64,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Study",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -204,62 +193,31 @@
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
       "obsidian-excalidraw-plugin:New drawing": false,
-      "templater-obsidian:Templater": false,
-      "zk-prefixer:Create new unique note": false
+      "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "736ecdde4bd3acd1",
-    "type": "floating",
-    "children": [
-      {
-        "id": "2c986e7d31aa7c66",
-        "type": "window",
-        "children": [
-          {
-            "id": "070fcd392e7c0740",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "aebcafeb54c3c391",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Notes/Kaggle LLM Day 1.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Kaggle LLM Day 1"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": 471,
-        "y": 61,
-        "width": 848,
-        "height": 910,
-        "maximize": false,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "704d8254827b1b0e",
+  "active": "edabd59e49df91bb",
   "lastOpenFiles": [
-    "Notes/Kaggle LLM Day 2 Embeddings Vectors.md",
+    "Notes/Agents Day 3 Kaggle llm.svg",
     "Notes/Kaggle LLM Day 1.md",
+    "Notes/Random Notes.svg",
+    "Notes/SecLm MedLm.svg",
+    "Notes/Kaggle LLM Day 1.svg",
+    "Notes/Books To read.md",
+    "Notes/SecLm MedLm.md",
+    "Notes/Random Notes.md",
+    "Notes/Agents Day 3 Kaggle llm.md",
+    "Attachment/IMG-20251227-WA0003.jpg",
+    "Attachment/IMG-20251227-WA0002.jpg",
+    "Notes/Kaggle LLM Day 2 Embeddings Vectors.md",
     "Notes/2025_12_25 0619 LLM Day 1.svg.md",
     "Notes/2025_12_25 0620 LLM Embeddings Vectors.restored.svg",
     "Notes/Kaggle LLM Day 2 Embeddings Vectors.svg",
     "Notes/2025_12_25 0620.md",
     "Notes/2025_12_25 0619 LLM Day 1.svg",
-    "Notes/Kaggle LLM Day 1.svg",
     "Attachment/IMG-20251226-WA0000.jpg",
     "Notes/transformer.md",
     "Notes/Transformers.md",
-    "Notes/2025_12_25 0620 LLM Embeddings Vectors.svg",
-    "Excalidraw/Drawing 2025-12-25 19.25.07.svg",
     "Excalidraw/Drawing 2025-12-25 19.25.07.md",
     "Excalidraw",
     "Attachment",
@@ -267,11 +225,8 @@
     "Notes/202512251803.md",
     "_templates/daily_template.md",
     "_templates/template.md",
-    "_templates/{{Title}}.svg",
     "_templates/concepts.md",
-    "_templates/notes_excal.svg",
     "_templates/AI]] [[Neuro Science]] [[Maths.md",
-    "_templates/excal_template.svg",
     "_templates/excal_template.restored.md",
     "_templates/Default Excal.md",
     "Notes/Acad/Kaggle C1/Basic Deep Learning.md",
@@ -282,11 +237,6 @@
     "Test File.md",
     "Welcome.md",
     "Untitled.base",
-    "Notes/Acad/Kaggle C1/{{Untitled 1}}.svg.md",
-    "Excalidraw/Drawing 2025-12-25 15.13.15.excalidraw.md",
-    "Notes/Acad/Kaggle C1/title.md",
-    "Notes/Acad/Kaggle C1/Title Changed.md",
-    "Notes/Acad/Kaggle C1/Basic DL.md",
     "Notes/Acad/Kaggle C1/Untitled",
     "_templates/Untitled.base",
     "Excalidraw/Scripts/Downloaded",

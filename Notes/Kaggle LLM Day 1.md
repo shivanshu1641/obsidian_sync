@@ -16,8 +16,8 @@ type:
   - Concept
 Status: Done
 Prerequisites:
+  - "[[Transformers]]"
   - "[[rnn]]"
-  - "[[transformer]]"
 Sources:
   - LLM kaggle d1
   - Nblm
