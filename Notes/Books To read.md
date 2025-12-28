@@ -5,13 +5,14 @@ excalidraw-plugin: parsed
 tags:
 topics:
 type:
-  - Bookw
+  - "[[Reading]]"
 Status: TBD
 Prerequisites:
 Sources:
 Applies To:
 ---
 ---
+
 ## <font color="#1f497d">TOPICS</font>
 - Dostovesky 
 	- crime and punishment 

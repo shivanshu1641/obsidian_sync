@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "8d8165e3642d0604",
+        "id": "b75baa28354412b8",
         "type": "tabs",
         "children": [
           {
-            "id": "edabd59e49df91bb",
+            "id": "4a2d821278f88069",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Kaggle LLM Day 1.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Kaggle LLM Day 1"
+              "title": "New tab"
             }
           }
         ]
@@ -78,7 +74,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 435.5
+    "width": 229.5
   },
   "right": {
     "id": "69e5223beb049438",
@@ -180,7 +176,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 441.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -196,20 +192,57 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "edabd59e49df91bb",
+  "floating": {
+    "id": "560d16beb033140d",
+    "type": "floating",
+    "children": [
+      {
+        "id": "ccbf35911d34732b",
+        "type": "window",
+        "children": [
+          {
+            "id": "8d822b45955a8d85",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "edabd59e49df91bb",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Notes/Agents Day 3 Kaggle llm.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Agents Day 3 Kaggle llm"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical",
+        "x": 788,
+        "y": -564,
+        "width": 600,
+        "height": 910,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "e35fb23225c45e2c",
   "lastOpenFiles": [
-    "Notes/Agents Day 3 Kaggle llm.svg",
+    "Notes/Books To read.md",
+    "Notes/Kaggle LLM Day 2 Embeddings Vectors.md",
     "Notes/Kaggle LLM Day 1.md",
+    "Notes/Agents Day 3 Kaggle llm.md",
+    "Notes/Agents Day 3 Kaggle llm.svg",
     "Notes/Random Notes.svg",
     "Notes/SecLm MedLm.svg",
     "Notes/Kaggle LLM Day 1.svg",
-    "Notes/Books To read.md",
     "Notes/SecLm MedLm.md",
     "Notes/Random Notes.md",
-    "Notes/Agents Day 3 Kaggle llm.md",
     "Attachment/IMG-20251227-WA0003.jpg",
     "Attachment/IMG-20251227-WA0002.jpg",
-    "Notes/Kaggle LLM Day 2 Embeddings Vectors.md",
     "Notes/2025_12_25 0619 LLM Day 1.svg.md",
     "Notes/2025_12_25 0620 LLM Embeddings Vectors.restored.svg",
     "Notes/Kaggle LLM Day 2 Embeddings Vectors.svg",

@@ -13,11 +13,12 @@ topics:
   - "[[AI]]"
   - LLM 
 type:
-  - Concept
+  - "[[Reading]]"
+  - "[[Concepts]]"
 Status: Done
 Prerequisites:
   - "[[Transformers]]"
-  - "[[rnn]]"
+  - "[[RNN]]"
 Sources:
   - LLM kaggle d1
   - Nblm
@@ -32,6 +33,7 @@ Applies To:
 ## Other Notes
 - [[Deep Seek]]
 - [[Chinchila]]
+- [[Reasoning]]
 ---
 ## Resources
 - https://www.kaggle.com/learn-guide/5-day-genai [[Kaggle GenAI Course]]
@@ -39,7 +41,7 @@ Applies To:
 - [[NB LM]] https://notebooklm.google.com/notebook/a3d941d8-891e-4cab-a771-de6ff4093404
 
 
-![[Kaggle LLM Day 1.svg]]
+
 # Excalidraw Data
 
 ## Text Elements

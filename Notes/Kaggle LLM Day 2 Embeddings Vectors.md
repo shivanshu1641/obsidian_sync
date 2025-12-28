@@ -11,12 +11,13 @@ topics:
   - "[[AI]]"
   - "[[Maths]]"
 type:
-  - Concept
-  - Summary
-  - Proof
+  - "[[Concepts]]"
+  - "[[Reading]]"
 Status: TBD
 Prerequisites:
 Sources:
+  - LLM kaggle d1
+  - Nblm
 Applies To:
 ---
 ---
@@ -38,7 +39,6 @@ Applies To:
 
 
 
-![[Kaggle LLM Day 2 Embeddings Vectors.svg]]
 # Excalidraw Data
 
 ## Text Elements

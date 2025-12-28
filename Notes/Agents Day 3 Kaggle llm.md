@@ -4,30 +4,33 @@ updated: 2025-12-27T18:01
 excalidraw-plugin: parsed
 tags:
   - Study
+  - AI/LLMs/Agents
 topics:
   - "[[AI]]"
-  - "[[Maths]]"
+  - Agents
 type:
-  - Concept
-  - Summary
-  - Proof
-Status: TBD
+  - "[[Concepts]]"
+  - "[[Reading]]"
+Status: Done
 Prerequisites:
 Sources:
+  - LLM kaggle d1
+  - Nblm
 Applies To:
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- ajsndjs
-- as d
+- Agent Architecture
+- [[Reasoning]]
 ---
 ## Other Notes
-- Note 1
-- NOte 2
+- [[LLM Finetuning]]
+- [[MCP]]
 ---
 ## Resources
-- aksd
-- askasd
+- https://www.kaggle.com/learn-guide/5-day-genai [[Kaggle GenAI Course]]
+- [[NB LM]] https://notebooklm.google.com/notebook/20b3817a-645f-4c51-907c-38e553f3d8d4
+- [[NB LM]] https://notebooklm.google.com/notebook/a3d941d8-891e-4cab-a771-de6ff4093404
 # Excalidraw Data
 
 ## Text Elements
