@@ -11,12 +11,14 @@
             "id": "03347977c4199f7f",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "split-diff-view",
               "state": {
-                "file": "Notes/RL Maths 1.md"
+                "aFile": ".gitignore",
+                "bFile": ".gitignore",
+                "aRef": ""
               },
-              "icon": "excalidraw-icon",
-              "title": "RL Maths 1"
+              "icon": "diff",
+              "title": "Diff: .gitignore"
             }
           }
         ]
@@ -196,8 +198,8 @@
   },
   "active": "03347977c4199f7f",
   "lastOpenFiles": [
-    "Notes/Books To read.md",
     "Notes/RL Maths 1.md",
+    "Notes/Books To read.md",
     "Notes/Transformers.md",
     "Notes/Attention.md",
     "_templates/daily_template.md",
