@@ -14,15 +14,11 @@ Applies To:
 ---
 
 ## <font color="#1f497d">TOPICS</font>
-- Dostovesky 
-	- crime and punishment 
-	- notes from underground 
-	- demons 
-	- idiots 
-	- the brothers karamasov
-	- any seq
-		- notes from the dead house
-		- white night 
+
+[[Books To read]]
+
+https://docs.google.com/spreadsheets/d/1uFZ8TaoVIlx6xz2J9KBijrBIAQbxZlDFOBxr9RtqjOI/edit?gid=0#gid=0
+
 # Excalidraw Data
 
 ## Text Elements
