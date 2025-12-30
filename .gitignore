@@ -62,5 +62,7 @@ Thumbs.db
 # *.mov
 # *.wav
 .DS_Store
-workspace-mobile.json
+*workspace-mobile.json
+*workspace.json
 /.obsidian/plugins/obsidian-git/obsidian_askpass.sh
+/.trash
