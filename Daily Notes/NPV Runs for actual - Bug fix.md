@@ -1,9 +1,10 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-01-06T13:14
+updated: 2026-01-09T13:20
 tags:
   - Work/bug
 topics:
+  - "[[2026Q1]]"
 Project:
   - "[[Bug]]"
 Status: In Progress
