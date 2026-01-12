@@ -195,7 +195,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 469.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +211,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bec73aea09ac98b6",
+  "active": "e35fb23225c45e2c",
   "lastOpenFiles": [
     "Daily Notes/2026-01-12.md",
     "Daily Notes/2026-01-09.md",
