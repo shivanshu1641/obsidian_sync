@@ -4,81 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "524ee0055c34e315",
+        "id": "f555dae1496c6c2d",
         "type": "tabs",
         "children": [
           {
-            "id": "3171a07a21060e53",
+            "id": "21de15d1691adc60",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-01-08.md",
+                "file": "Daily Notes/2026-01-12.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-08"
+              "title": "2026-01-12"
             }
           },
           {
-            "id": "58d739ab95739200",
+            "id": "bec73aea09ac98b6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-01-09.md",
+                "file": "Daily Notes/APM.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-09"
-            }
-          },
-          {
-            "id": "c3328f66080f0318",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026-01-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-09"
-            }
-          },
-          {
-            "id": "2a23566213ea303e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026-01-09.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-09"
-            }
-          },
-          {
-            "id": "75ecfdb0656c2e05",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/12+0 Forecast.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "12+0 Forecast"
+              "title": "APM"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -253,10 +211,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "75ecfdb0656c2e05",
+  "active": "bec73aea09ac98b6",
   "lastOpenFiles": [
-    "Daily Notes/12+0 Forecast.md",
+    "Daily Notes/2026-01-12.md",
     "Daily Notes/2026-01-09.md",
+    "Daily Notes/2026-01-10.md",
+    "Notes/RL Maths 1.md",
+    "Notes/Value Function Approximation.md",
+    "Notes/Random Notes.md",
+    "Notes/Kaggle LLM Day 1.md",
+    "Daily Notes/12+0 Forecast.md",
+    "Notes/Temporal Difference Learning.md",
+    "Notes/On policy vs Off policy.md",
+    "Attachment/IMG-20260110-WA0006.jpg",
     "Daily Notes/Queries.md",
     "Daily Notes/Dummy Data to be shared via GD.md",
     "Daily Notes/Network Monitoring System.md",
@@ -273,15 +240,7 @@
     "Daily Notes/APM.md",
     "Daily Notes/Keyword Data Upload Jan.md",
     "Daily Notes/12+0 Entri.md",
-    "Daily Notes/2026-01-08.md",
-    "Notes/Stochastic approximation.md",
-    "Daily Notes/2026-01-07.md",
-    "Daily Notes/2026-01-06.md",
-    "Notes/Monte Carlo Learning RL.md",
-    "Daily Notes/2026-01-05.md",
-    "Notes/Value Iterations &  Policy Iterations.md",
     "Attachment/IMG-20260107-WA0002.jpg",
-    "Notes/Dashboard for NPV Accuracy.md",
     "Daily Notes/work",
     "Daily Notes",
     "Attachment/IMG-20251230-WA0001.jpg",
@@ -292,7 +251,6 @@
     "Notes/Kaggle LLM Day 1.svg",
     "Attachment/IMG-20251227-WA0003.jpg",
     "Attachment/IMG-20251227-WA0002.jpg",
-    "Notes/2025_12_25 0620 LLM Embeddings Vectors.restored.svg",
     "Excalidraw",
     "Attachment",
     "_templates/math-teacher-library.excalidrawlib",
