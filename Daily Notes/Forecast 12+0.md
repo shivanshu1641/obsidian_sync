@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-01-10T16:57
+updated: 2026-01-14T16:30
 tags:
   - Work/recurring
 topics:
@@ -9,7 +9,7 @@ type:
   - "[[Daily Note]]"
 Status: TBD
 ---
-Forecast Update Query
+**Forecast Update Query**
 ```
 CREATE OR REPLACE TABLE `radixbi-249015.npv_projection.forecast_std_12_0_2025`
 
@@ -116,4 +116,128 @@ CAST(net_npv AS FLOAT64) AS net_npv
 FROM
 
 `shiva_adhoc.forecast_premium_12_0_2025`;
+```
+
+```
+CREATE OR REPLACE TABLE `radixbi-249015.pnl_master.forecast_renew_12_0_2025`
+
+AS
+
+SELECT
+
+timeline,
+
+reg_type,
+
+renewed_count,
+
+tld,
+
+registrar_shortname,
+
+client_shortname,
+
+expiry_month,
+
+domain_count ,
+
+renewal_revenue,
+
+renewed_domain_years,
+
+renewed_domain_count,
+
+"forecast_12_0" AS forecast_cut
+
+FROM
+
+`radixbi-249015.shiva_adhoc.forecast_renew_12_0_2025`
+
+WHERE reg_type = "renew"
+```
+
+```
+CREATE OR REPLACE TABLE `radixbi-249015.pnl_master.forecast_premium_renew_12_0_2025`
+
+AS
+
+SELECT
+
+timeline,
+
+reg_type,
+
+renewed_count,
+
+tld,
+
+registrar_shortname,
+
+client_shortname,
+
+expiry_month,
+
+domain_count expiring_domain_count,
+
+renewal_revenue,
+
+renewed_domain_years,
+
+renewed_domain_count,
+
+"forecast_12_0" AS forecast_cut
+
+FROM
+
+`radixbi-249015.shiva_adhoc.forecast_renew_12_0_2025`
+
+WHERE reg_type = "premium_renew"
+```
+
+```
+CREATE OR REPLACE TABLE `radixbi-249015.pnl_master.forecast_premium_renew_12_0_2025`
+
+AS
+
+SELECT
+
+timeline,
+
+reg_type,
+
+CASE
+
+WHEN renewed_count = 1 THEN "premium_first_renews"
+
+WHEN renewed_count = 2 THEN "premium_second_renews"
+
+ELSE "premium_subsequent_renews"
+
+END
+
+AS renewal_type,
+
+tld,
+
+registrar_shortname,
+
+client_shortname,
+
+expiry_month,
+
+domain_count expiring_domain_count,
+
+renewal_revenue,
+
+renewed_domain_years,
+
+renewed_domain_count,
+
+"forecast_12_0" AS forecast_cut
+
+FROM
+
+`radixbi-249015.shiva_adhoc.forecast_renew_12_0_2025`
+
+WHERE reg_type = "premium_renew"
 ```
