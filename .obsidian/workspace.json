@@ -4,81 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f555dae1496c6c2d",
+        "id": "809195dbbc36df2d",
         "type": "tabs",
         "children": [
           {
-            "id": "21de15d1691adc60",
+            "id": "1ecab9d59642cce3",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily Notes/APM.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Bellman Equation.md"
               },
-              "icon": "lucide-file",
-              "title": "APM"
-            }
-          },
-          {
-            "id": "bec73aea09ac98b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026-01-13.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-13"
-            }
-          },
-          {
-            "id": "435b5622c3bd8a66",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/GD NC Dec - Jan Refresh Query.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "GD NC Dec - Jan Refresh Query"
-            }
-          },
-          {
-            "id": "8ace144cc3bd1843",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Premiums Planning Call.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Premiums Planning Call"
-            }
-          },
-          {
-            "id": "be310657b42815ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/APM.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "APM"
+              "icon": "excalidraw-icon",
+              "title": "Bellman Equation"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -253,10 +194,129 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "bec73aea09ac98b6",
+  "floating": {
+    "id": "fa58e25cab52daa4",
+    "type": "floating",
+    "children": [
+      {
+        "id": "d3889f3a795d2969",
+        "type": "window",
+        "children": [
+          {
+            "id": "492b78a8040c59fc",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "d89abbfc458521ce",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Stochastic approximation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Stochastic approximation"
+                }
+              },
+              {
+                "id": "cf9bf6dc1cc3cbbc",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Temporal Difference Learning.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Temporal Difference Learning"
+                }
+              },
+              {
+                "id": "ad42902dfcf6dcc0",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Notes/Value Function Approximation.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Value Function Approximation"
+                }
+              },
+              {
+                "id": "91602ea3f70c13d4",
+                "type": "leaf",
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "Notes/Value Iterations &  Policy Iterations.md"
+                  },
+                  "icon": "excalidraw-icon",
+                  "title": "Value Iterations &  Policy Iterations"
+                }
+              },
+              {
+                "id": "e2cf8f4e0103941b",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Bellman Equation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Bellman Equation"
+                }
+              },
+              {
+                "id": "7c01d8d60789eb42",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "Notes/Bellman Optimality Equation.md",
+                    "mode": "source",
+                    "source": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "Bellman Optimality Equation"
+                }
+              }
+            ],
+            "currentTab": 4
+          }
+        ],
+        "direction": "vertical",
+        "x": 195,
+        "y": -391,
+        "width": 1205,
+        "height": 908,
+        "maximize": true,
+        "zoom": 0
+      }
+    ]
+  },
+  "active": "1ecab9d59642cce3",
   "lastOpenFiles": [
-    "Daily Notes/GD NC Dec - Jan Refresh Query.md",
+    "Notes/Bellman Equation.md",
+    "Notes/On policy vs Off policy.md",
+    "Notes/SecLm MedLm.md",
+    "Notes/Bellman Optimality Equation.md",
+    "Notes/Contraction Mapping Theorem.md",
+    "Notes/Monte Carlo Learning RL.md",
+    "Notes/Temporal Difference Learning.md",
+    "Notes/Value Iterations &  Policy Iterations.md",
+    "Notes/RL Maths 1.md",
+    "Notes/Stochastic approximation.md",
+    "Notes/Value Function Approximation.md",
+    "Notes/Agents Day 3 Kaggle llm.md",
     "Daily Notes/2026-01-13.md",
+    "Notes/Policy Gradient Methods RL.md",
+    "Daily Notes/GD NC Dec - Jan Refresh Query.md",
     "GD NC Dec",
     "conflict-files-obsidian-git.md",
     "Daily Notes/APM.md",
@@ -267,22 +327,9 @@
     "Daily Notes/Premiums Planning Call.md",
     "Daily Notes/2026-01-09.md",
     "Daily Notes/2026-01-10.md",
-    "Notes/RL Maths 1.md",
-    "Notes/Value Function Approximation.md",
     "Notes/Random Notes.md",
     "Notes/Kaggle LLM Day 1.md",
-    "Notes/Temporal Difference Learning.md",
-    "Notes/On policy vs Off policy.md",
     "Attachment/IMG-20260110-WA0006.jpg",
-    "Daily Notes/Dummy Data to be shared via GD.md",
-    "Daily Notes/Network Monitoring System.md",
-    "Daily Notes/NPV Runs for actual - Bug fix.md",
-    "Daily Notes/Registry office ordering change.md",
-    "_templates/template.md",
-    "_templates/daily_template.md",
-    "_templates/call template.md",
-    "Daily Notes/TAP Exploratory Strings.md",
-    "Daily Notes/R2.md",
     "Attachment/IMG-20260107-WA0002.jpg",
     "Daily Notes/work",
     "Daily Notes",

@@ -12,18 +12,17 @@ type:
   - "[[Reading]]"
 Status: TBD
 Prerequisites:
+  - "[[Bellman Equation]]"
+  - "[[Bellman Optimality Equation]]"
 Sources:
 Applies To:
+  - "[[Value Iterations &  Policy Iterations]]"
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- 
+- [[Value Iterations &  Policy Iterations]]
 ---
-## Other Notes
-- 
----
-## Resources
-- 
+
 # Excalidraw Data
 
 ## Text Elements

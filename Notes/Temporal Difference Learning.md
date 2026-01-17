@@ -3,26 +3,38 @@ created: 2025-12-25T15:31
 updated: 2026-01-10T13:05
 excalidraw-plugin: parsed
 tags:
+  - AL/RL
   - Study
 topics:
   - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
-  - "[[Reading]]"
 Status: TBD
 Prerequisites:
+  - "[[Monte Carlo Learning RL]]"
+  - "[[Stochastic approximation]]"
+  - "[[Value Function Approximation]]"
+  - "[[Bellman Equation]]"
+  - "[[Bellman Optimality Equation]]"
 Sources:
 Applies To:
+  - "[[Reinforcement Learning]]"
+  - "[[Value Function Approximation]]"
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- 
+- [[Temporal Difference Learning]]
+- [[State Value approximation]] [[Add Later]]
+- [[Sarsa]] [[Add Later]]
+- [[Q Learning]] [[Add Later]]
+
 ---
 ## Other Notes
-- 
+- [[Monte Carlo Learning RL]] -- extension to this 
+- [[On policy vs Off policy]]
 ---
-## Resources
+## Resources [[Add Later]]
 - 
 # Excalidraw Data
 

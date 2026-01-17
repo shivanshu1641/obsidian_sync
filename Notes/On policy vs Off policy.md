@@ -14,16 +14,11 @@ Status: TBD
 Prerequisites:
 Sources:
 Applies To:
+  - "[[Q Learning]]"
+  - "[[Temporal Difference Learning]]"
 ---
 ---
-## <font color="#1f497d">TOPICS</font>
-- 
----
-## Other Notes
-- 
----
-## Resources
-- 
+
 # Excalidraw Data
 
 ## Text Elements

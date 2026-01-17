@@ -15,15 +15,7 @@ Prerequisites:
 Sources:
 Applies To:
 ---
----
-## <font color="#1f497d">TOPICS</font>
-- 
----
-## Other Notes
-- 
----
-## Resources
-- 
+
 # Excalidraw Data
 
 ## Text Elements

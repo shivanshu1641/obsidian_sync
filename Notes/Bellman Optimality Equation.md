@@ -9,20 +9,21 @@ topics:
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
-Status: TBD
+Status: Done
 Prerequisites:
 Sources:
+  - "[[Contraction Mapping Theorem]]"
+  - "[[Bellman Equation]]"
 Applies To:
+  - "[[Reinforcement Learning]]"
+  - "[[Value Iterations &  Policy Iterations]]"
 ---
 ---
-## <font color="#1f497d">TOPICS</font>
-- 
 ---
 ## Other Notes
-- 
+- [[Contraction Mapping Theorem]] -- optimality proof comes from this
 ---
-## Resources
-- 
+
 # Excalidraw Data
 
 ## Text Elements

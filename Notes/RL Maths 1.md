@@ -15,19 +15,10 @@ Status: TBD
 Prerequisites:
 Sources:
 Applies To:
+  - "[[Reinforcement Learning]]"
 ---
 ---
-## <font color="#1f497d">TOPICS</font>
-- ajsndjs
-- as d
----
-## Other Notes
-- Note 1
-- NOte 2
----
-## Resources
-- aksd
-- askasd
+Basics 
 # Excalidraw Data
 
 ## Text Elements

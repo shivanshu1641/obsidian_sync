@@ -11,12 +11,15 @@ type:
   - "[[Reading]]"
 Status: TBD
 Prerequisites:
+  - "[[RL Maths 1]]"
 Sources:
 Applies To:
+  - "[[Bellman Optimality Equation]]"
+  - "[[Reinforcement Learning]]"
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- 
+- [[Bootstrapping]]
 ---
 ## Other Notes
 - 
