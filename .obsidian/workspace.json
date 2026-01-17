@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "809195dbbc36df2d",
+        "id": "f220f2ce2f20f8a2",
         "type": "tabs",
         "children": [
           {
-            "id": "1ecab9d59642cce3",
+            "id": "9fb2b5e3070aa807",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notes/Bellman Equation.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Bellman Equation"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -31,6 +29,7 @@
       {
         "id": "46819f31d1b40006",
         "type": "tabs",
+        "dimension": 68.32229580573951,
         "children": [
           {
             "id": "52c514d8b912b602",
@@ -70,6 +69,33 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
+            }
+          },
+          {
+            "id": "0090837b5a70f7f9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      },
+      {
+        "id": "683552434d304e12",
+        "type": "tabs",
+        "dimension": 31.677704194260485,
+        "children": [
+          {
+            "id": "487348525f765d6e",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
         ]
@@ -300,8 +326,11 @@
       }
     ]
   },
-  "active": "1ecab9d59642cce3",
+  "active": "9fb2b5e3070aa807",
   "lastOpenFiles": [
+    "Daily Notes/Dummy Data to be shared via GD.md",
+    "Daily Notes/Entri 12+0  Ren Rate Check.md",
+    "Entri Reporting.md",
     "Notes/Bellman Equation.md",
     "Notes/On policy vs Off policy.md",
     "Notes/SecLm MedLm.md",
@@ -321,14 +350,11 @@
     "conflict-files-obsidian-git.md",
     "Daily Notes/APM.md",
     "Daily Notes/Forecast 12+0.md",
-    "Daily Notes/Entri 12+0  Ren Rate Check.md",
     "Daily Notes/2026-01-12.md",
     "Daily Notes/Queries.md",
     "Daily Notes/Premiums Planning Call.md",
     "Daily Notes/2026-01-09.md",
     "Daily Notes/2026-01-10.md",
-    "Notes/Random Notes.md",
-    "Notes/Kaggle LLM Day 1.md",
     "Attachment/IMG-20260110-WA0006.jpg",
     "Attachment/IMG-20260107-WA0002.jpg",
     "Daily Notes/work",
