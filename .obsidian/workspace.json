@@ -53,14 +53,14 @@
             "id": "09540c2b8ba60a5d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Daily Notes/APM.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Daily Notes/2026-01-05.md",
+                "bFile": "Daily Notes/2026-01-05.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "APM"
+              "icon": "diff",
+              "title": "Diff: 2026-01-05"
             }
           }
         ],
@@ -165,7 +165,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/APM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -175,7 +174,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for APM"
+              "title": "Backlinks"
             }
           },
           {
@@ -184,12 +183,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/APM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from APM"
+              "title": "Outgoing links"
             }
           },
           {
@@ -269,10 +267,10 @@
   },
   "active": "09540c2b8ba60a5d",
   "lastOpenFiles": [
-    "Daily Notes/2026-01-19.md",
-    "Daily Notes/Optimizer GD.md",
     "Daily Notes/NPV Runs for actual - Bug fix.md",
     "Daily Notes/APM.md",
+    "Daily Notes/2026-01-19.md",
+    "Daily Notes/Optimizer GD.md",
     "Daily Notes/GD BIdding R2.md",
     "Daily Notes/R2.md",
     "Daily Notes/Daily Note.md",
