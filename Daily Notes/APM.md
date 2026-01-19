@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-01-17T15:48
+updated: 2026-01-19T12:05
 tags:
   - work/project
 topics:
@@ -320,3 +320,13 @@ FROM curr_newreg_exploded
 
 GROUP BY domain_id
 ```
+
+
+
+	- Pattern Bulk done
+	- gibb done
+	- proxim
+		- word based logic pending - removed this is a seperate component now done
+		- check rust logic done
+	- word based logic done
+	- brand done

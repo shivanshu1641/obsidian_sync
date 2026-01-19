@@ -21,7 +21,7 @@ https://github.com/rougier/braincraft/tree/master
 ---
 
 
-[[Echo State Network]]
+[[Echo State Nework]]
 # Excalidraw Data
 
 ## Text Elements

@@ -4,39 +4,67 @@
     "type": "split",
     "children": [
       {
-        "id": "f220f2ce2f20f8a2",
+        "id": "493a6ec55a71d7a2",
         "type": "tabs",
         "children": [
           {
-            "id": "9fb2b5e3070aa807",
+            "id": "31c5aa1434351be5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/1000 Neuron Challange.md",
+                "file": "Daily Notes/2026-01-19.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1000 Neuron Challange"
+              "title": "2026-01-19"
             }
           },
           {
-            "id": "ed0ea51ab1f5ce78",
+            "id": "aa8e4a4dbd4cfbed",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Echo State Network.md",
+                "file": "Daily Notes/R2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echo State Network"
+              "title": "R2"
+            }
+          },
+          {
+            "id": "4a9a4624c4c46a8f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-01-19.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-19"
+            }
+          },
+          {
+            "id": "09540c2b8ba60a5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/APM.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "APM"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -137,7 +165,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Daily Notes/APM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +175,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for APM"
             }
           },
           {
@@ -156,12 +184,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Daily Notes/APM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from APM"
             }
           },
           {
@@ -239,10 +267,23 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ed0ea51ab1f5ce78",
+  "active": "09540c2b8ba60a5d",
   "lastOpenFiles": [
-    "Notes/Echo State Network.md",
+    "Daily Notes/2026-01-19.md",
+    "Daily Notes/Optimizer GD.md",
+    "Daily Notes/NPV Runs for actual - Bug fix.md",
+    "Daily Notes/APM.md",
+    "Daily Notes/GD BIdding R2.md",
+    "Daily Notes/R2.md",
+    "Daily Notes/Daily Note.md",
+    "Daily Notes/Tech View Hira.md",
+    "Daily Notes/Dashboard for NPV Accuracy.md",
+    "Daily Notes/2026Q1.md",
+    "Daily Notes/CI FTW Fix.md",
+    "Daily Notes/2026-01-12.md",
+    "Daily Notes/2026-01-13.md",
     "Notes/1000 Neuron Challange.md",
+    "Notes/Echo State Network.md",
     "Daily Notes/Dummy Data to be shared via GD.md",
     "Daily Notes/Entri 12+0  Ren Rate Check.md",
     "Entri Reporting.md",
@@ -254,20 +295,7 @@
     "Notes/Monte Carlo Learning RL.md",
     "Notes/Temporal Difference Learning.md",
     "Notes/Value Iterations &  Policy Iterations.md",
-    "Notes/RL Maths 1.md",
-    "Notes/Stochastic approximation.md",
-    "Notes/Value Function Approximation.md",
-    "Notes/Agents Day 3 Kaggle llm.md",
-    "Daily Notes/2026-01-13.md",
-    "Notes/Policy Gradient Methods RL.md",
-    "Daily Notes/GD NC Dec - Jan Refresh Query.md",
     "GD NC Dec",
-    "conflict-files-obsidian-git.md",
-    "Daily Notes/APM.md",
-    "Daily Notes/Forecast 12+0.md",
-    "Daily Notes/2026-01-12.md",
-    "Daily Notes/Queries.md",
-    "Daily Notes/Premiums Planning Call.md",
     "Attachment/IMG-20260110-WA0006.jpg",
     "Attachment/IMG-20260107-WA0002.jpg",
     "Daily Notes/work",
