@@ -11,13 +11,32 @@
             "id": "9fb2b5e3070aa807",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Notes/1000 Neuron Challange.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "1000 Neuron Challange"
+            }
+          },
+          {
+            "id": "ed0ea51ab1f5ce78",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Echo State Network.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Echo State Network"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,114 +239,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "floating": {
-    "id": "fa58e25cab52daa4",
-    "type": "floating",
-    "children": [
-      {
-        "id": "d3889f3a795d2969",
-        "type": "window",
-        "children": [
-          {
-            "id": "492b78a8040c59fc",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "d89abbfc458521ce",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Stochastic approximation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Stochastic approximation"
-                }
-              },
-              {
-                "id": "cf9bf6dc1cc3cbbc",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Temporal Difference Learning.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Temporal Difference Learning"
-                }
-              },
-              {
-                "id": "ad42902dfcf6dcc0",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Notes/Value Function Approximation.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Value Function Approximation"
-                }
-              },
-              {
-                "id": "91602ea3f70c13d4",
-                "type": "leaf",
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "Notes/Value Iterations &  Policy Iterations.md"
-                  },
-                  "icon": "excalidraw-icon",
-                  "title": "Value Iterations &  Policy Iterations"
-                }
-              },
-              {
-                "id": "e2cf8f4e0103941b",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Bellman Equation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Bellman Equation"
-                }
-              },
-              {
-                "id": "7c01d8d60789eb42",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Notes/Bellman Optimality Equation.md",
-                    "mode": "source",
-                    "source": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Bellman Optimality Equation"
-                }
-              }
-            ],
-            "currentTab": 4
-          }
-        ],
-        "direction": "vertical",
-        "x": 195,
-        "y": -391,
-        "width": 1205,
-        "height": 908,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "9fb2b5e3070aa807",
+  "active": "ed0ea51ab1f5ce78",
   "lastOpenFiles": [
+    "Notes/Echo State Network.md",
+    "Notes/1000 Neuron Challange.md",
     "Daily Notes/Dummy Data to be shared via GD.md",
     "Daily Notes/Entri 12+0  Ren Rate Check.md",
     "Entri Reporting.md",
@@ -353,8 +268,6 @@
     "Daily Notes/2026-01-12.md",
     "Daily Notes/Queries.md",
     "Daily Notes/Premiums Planning Call.md",
-    "Daily Notes/2026-01-09.md",
-    "Daily Notes/2026-01-10.md",
     "Attachment/IMG-20260110-WA0006.jpg",
     "Attachment/IMG-20260107-WA0002.jpg",
     "Daily Notes/work",
