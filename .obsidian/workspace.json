@@ -53,14 +53,14 @@
             "id": "09540c2b8ba60a5d",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "Daily Notes/2026-01-05.md",
-                "bFile": "Daily Notes/2026-01-05.md",
-                "aRef": ""
+                "file": "Notes/Echo State Network.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: 2026-01-05"
+              "icon": "lucide-file",
+              "title": "Echo State Network"
             }
           }
         ],
