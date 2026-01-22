@@ -4,25 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "493a6ec55a71d7a2",
+        "id": "e945b08a72d2a74d",
         "type": "tabs",
         "children": [
           {
-            "id": "31c5aa1434351be5",
+            "id": "cd95eb64e88cf2b2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-01-19.md",
+                "file": "Daily Notes/2026-01-20.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-19"
+              "title": "2026-01-20"
             }
           },
           {
-            "id": "aa8e4a4dbd4cfbed",
+            "id": "60aacb5f068f8002",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-01-20.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-20"
+            }
+          },
+          {
+            "id": "e327d4537d49761f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Prep IITM Code.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Prep IITM Code"
+            }
+          },
+          {
+            "id": "581efacc3ed494a2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/NTLD Renrate checks.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "NTLD Renrate checks"
+            }
+          },
+          {
+            "id": "91087f93d383454c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/CI FTW Fix.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CI FTW Fix"
+            }
+          },
+          {
+            "id": "941f3d9523aa0b5b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Adhoc AP Data Send.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Adhoc AP Data Send"
+            }
+          },
+          {
+            "id": "d4b73d012e796934",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Keyword Data to be shared w Manbir.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Keyword Data to be shared w Manbir"
+            }
+          },
+          {
+            "id": "f72b6de2f7c9fe84",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -36,35 +120,35 @@
             }
           },
           {
-            "id": "4a9a4624c4c46a8f",
+            "id": "5d362793fffce682",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-01-19.md",
+                "file": "Daily Notes/TAP Exploratory Strings.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-19"
+              "title": "TAP Exploratory Strings"
             }
           },
           {
-            "id": "09540c2b8ba60a5d",
+            "id": "9b843e9288d48e8d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Notes/Echo State Network.md",
+                "file": "Daily Notes/LLM Council.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Echo State Network"
+              "title": "LLM Council"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -97,7 +181,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "renew_",
+                "query": "\"Keyword Data to be shared w/ Manbir\"",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -136,7 +220,7 @@
         "dimension": 31.677704194260485,
         "children": [
           {
-            "id": "487348525f765d6e",
+            "id": "da5c0ecdbbc87216",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -165,6 +249,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Notes/Prep IITM Code.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -174,7 +259,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Prep IITM Code"
             }
           },
           {
@@ -183,11 +268,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Notes/Prep IITM Code.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Prep IITM Code"
             }
           },
           {
@@ -249,7 +335,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 469.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,34 +351,35 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "09540c2b8ba60a5d",
+  "active": "e327d4537d49761f",
   "lastOpenFiles": [
-    "Daily Notes/NPV Runs for actual - Bug fix.md",
     "Daily Notes/APM.md",
+    "Notes/Prep IITM Code.md",
+    "Daily Notes/2026-01-20.md",
     "Daily Notes/2026-01-19.md",
+    "Daily Notes/TAP Exploratory Strings.md",
+    "Daily Notes/R2.md",
+    "Daily Notes/NTLD Renrate checks.md",
+    "Daily Notes/CI FTW Fix.md",
+    "Daily Notes/Adhoc AP Data Send.md",
+    "Daily Notes/Keyword Data to be shared w Manbir.md",
+    "Keyword Data to be shared w/ Manbir.md",
+    "Keyword Data to be shared w",
+    "Daily Notes/LLM Council.md",
+    "_templates/call template.md",
+    "_templates/daily_template.md",
+    "Daily Notes/CI FTW Space historic sync.md",
+    "Notes/Echo State Network.md",
+    "Daily Notes/NPV Runs for actual - Bug fix.md",
     "Daily Notes/Optimizer GD.md",
     "Daily Notes/GD BIdding R2.md",
-    "Daily Notes/R2.md",
     "Daily Notes/Daily Note.md",
     "Daily Notes/Tech View Hira.md",
     "Daily Notes/Dashboard for NPV Accuracy.md",
     "Daily Notes/2026Q1.md",
-    "Daily Notes/CI FTW Fix.md",
     "Daily Notes/2026-01-12.md",
     "Daily Notes/2026-01-13.md",
     "Notes/1000 Neuron Challange.md",
-    "Notes/Echo State Network.md",
-    "Daily Notes/Dummy Data to be shared via GD.md",
-    "Daily Notes/Entri 12+0  Ren Rate Check.md",
-    "Entri Reporting.md",
-    "Notes/Bellman Equation.md",
-    "Notes/On policy vs Off policy.md",
-    "Notes/SecLm MedLm.md",
-    "Notes/Bellman Optimality Equation.md",
-    "Notes/Contraction Mapping Theorem.md",
-    "Notes/Monte Carlo Learning RL.md",
-    "Notes/Temporal Difference Learning.md",
-    "Notes/Value Iterations &  Policy Iterations.md",
     "GD NC Dec",
     "Attachment/IMG-20260110-WA0006.jpg",
     "Attachment/IMG-20260107-WA0002.jpg",
@@ -312,7 +399,6 @@
     "Untitled.base",
     "Notes/Acad/Kaggle C1/Untitled",
     "_templates/Untitled.base",
-    "Excalidraw/Scripts/Downloaded",
     "Untitled.canvas"
   ]
 }

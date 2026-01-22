@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-01-20
+updated: 2026-01-21
 tags:
   - work/project
 topics:
@@ -330,3 +330,11 @@ GROUP BY domain_id
 		- check rust logic done
 	- word based logic done
 	- brand done
+
+historic runs
+- brand match done
+- prox done
+- gibb score in done
+- word ninja in done
+- word prox done
+- pattern in progress

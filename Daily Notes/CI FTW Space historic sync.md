@@ -8,5 +8,5 @@ topics:
 type:
   - "[[Daily Note]]"
 Status: TBD
-Project:
 ---
+[[Done]]

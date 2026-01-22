@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-01-20
+updated: 2026-01-21
 tags:
   - DailyNote
 topics:
@@ -82,23 +82,46 @@ https://reports.radixbi.tech/#/workbooks/1778/views
 3. Additional discovery methods which Ramyashree had done  
   
 
-|   |
-|---|
-|.water|
-|.clean|
-|.electric|
-|.brain|
-|.nature|
-|.aid|
-|.innovation|
-|.peace|
-|.mental|
-|.geek|
-|.explore|
-|.biotech|
-|.pharma|
+|             |
+| ----------- |
+| .water      |
+| .clean      |
+| .electric   |
+| .brain      |
+| .nature     |
+| .aid        |
+| .innovation |
+| .peace      |
+| .mental     |
+| .geek       |
+| .explore    |
+| .biotech    |
+| .pharma     |
 
 [https://docs.google.com/spreadsheets/d/19deGnpWDPZsWGcj3srOzEx3VSJbtmivgj5dcGAO8BKQ/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/19deGnpWDPZsWGcj3srOzEx3VSJbtmivgj5dcGAO8BKQ/edit?gid=0#gid=0)  
   
 there are lot of other strings but this list seem to have good picks -- other also have strings but not very high qual
 
+
+
+
+Manual Run 
+
+---  
+.llm ?  
+it is a short stint that this term has mostly (but it has been 3 yrs and given how deeply it is getting integrated in systems it would stay for a while)  
+  
+and if i just remove the delegated strings -- it is in the top 10 of hyphen ending with in dums -- that too all of the regs in 2025  
+  
+it is above labs, mail corp and stuff  
+  
+-- against  
+will mostly have high competition
+
+---
+.think, .people -- src lex fridman's podcast
+.clean, .electric, .nature, .biotech -- GT -- these could be evaluated as we have similar tlds in our shortlist 
+
+
+---
+.logistics
