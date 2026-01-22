@@ -4,51 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "30937f78c8b5b0be",
+        "id": "845d4012abcf60bb",
         "type": "tabs",
         "children": [
           {
-            "id": "f7ab58c79c356c5c",
+            "id": "88fd4f2dc82c5e29",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Acad/Kaggle C1/Basic DL.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Basic DL"
-            }
-          },
-          {
-            "id": "792b44a5dbb117cb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/Acad/Kaggle C1/Basic DL.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Basic DL"
-            }
-          },
-          {
-            "id": "958f8b6933eac925",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Drawing 2025-12-25 15.02.54.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Drawing 2025-12-25 15.02.54.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -208,38 +177,49 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "958f8b6933eac925",
+  "active": "9a79c9958a1058f0",
   "lastOpenFiles": [
-    "Notes/Acad/Kaggle C1/Basic DL.md",
-    "Excalidraw/Drawing 2025-12-25 15.02.54.excalidraw.md",
-    "Notes/Acad/Kaggle C1/Drawing 2025-12-25 14.52.31.excalidraw.md",
+    "Daily Notes/NTLD Renrate checks.md",
+    "Daily Notes/LLM Council.md",
+    "Daily Notes/Keyword Data to be shared w Manbir.md",
+    "Daily Notes/CI FTW Space historic sync.md",
+    "Daily Notes/Adhoc AP Data Send.md",
+    "/_templates/daily_template.md",
+    "/_templates",
+    "/Notes/Prep IITM Code.md",
+    "Notes/Prep IITM Code.md",
+    "/Notes",
+    "/Daily Notes/TAP Exploratory Strings.md",
+    "/Daily Notes/R2.md",
+    "/Daily Notes/NTLD Renrate checks.md",
+    "/Daily Notes/LLM Council.md",
+    "/Daily Notes/Keyword Data to be shared w Manbir.md",
+    "/Daily Notes/CI FTW Space historic sync.md",
+    "/Daily Notes/CI FTW Fix.md",
+    "/Daily Notes/Adhoc AP Data Send.md",
+    "/Daily Notes/APM.md",
+    "/Daily Notes/2026-01-20.md",
+    "Daily Notes/2026-01-20.md",
+    "/Daily Notes",
+    "Notes/Echo State Network.md",
+    "/Notes/Echo State Network.md",
+    "Notes/Attention.md",
+    "/_templates/call template.md",
+    "/Daily Notes/Tech View Hira.md",
+    "/Daily Notes/Registry office ordering change.md",
+    "/Daily Notes/Queries.md",
     "Excalidraw/Scripts/Downloaded/Set Grid.svg",
-    "Excalidraw/Scripts/Downloaded/Set Grid.md",
     "Excalidraw/Scripts/Downloaded/Set Link Alias.svg",
-    "Excalidraw/Scripts/Downloaded/Set Link Alias.md",
     "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to New Page and Open.md",
     "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.svg",
-    "Excalidraw/Scripts/Downloaded/Add Link to Existing File and Open.md",
     "Excalidraw/Scripts/Downloaded",
     "Excalidraw/Scripts",
     "Excalidraw",
-    "Notes/Acad/Kaggle C1/basic_dl.excalidraw.md",
-    "Notes/Acad/Kaggle C1/Drawing 2025-12-25 14.46.06.excalidraw.md",
-    "_templates/concepts.md",
     "Notes/Acad/Kaggle C1/Untitled",
     "Untitled 2.base",
     "Notes/Acad/Kaggle C1/Untitled.canvas",
-    "Notes/Acad/Kaggle C1/Drawing 2025-12-25 14.31.13.excalidraw.md",
     "_templates",
-    "Notes/Acad/Kaggle C1/Llmc1.md.md",
     "Untitled.canvas",
-    "Notes/Acad/Kaggle C1",
-    "Notes/Acad",
-    "Untitled.base",
-    "Test File.md",
-    "Notes",
-    "Untitled.md",
-    "Welcome.md"
+    "Notes/Acad/Kaggle C1"
   ]
 }
