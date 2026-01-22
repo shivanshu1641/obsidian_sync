@@ -20,8 +20,8 @@ Applies To:
 - Linear Alg : https://www.coursera.org/specializations/mathematics-machine-learning
 - Stats : https://www.coursera.org/specializations/mathematics-for-machine-learning-and-data-science
 ---
-## Other Notes
-- 
+## Final Plan
+- https://chatgpt.com/share/697198fa-8098-800f-a132-0bea8caece66
 ---
 ## Resources
 - 
