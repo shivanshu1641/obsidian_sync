@@ -65,14 +65,14 @@
             "id": "a1cbf17b018f1832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "Notes/Note 1 - Maths for CS MIT 6.042.md",
-                "mode": "source",
-                "source": false
+                "aFile": "Daily Notes/2026-01-29.md",
+                "bFile": "Daily Notes/2026-01-29.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "Note 1 - Maths for CS MIT 6.042"
+              "icon": "diff",
+              "title": "Diff: 2026-01-29"
             }
           }
         ],
@@ -257,12 +257,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Note 1 - Maths for CS MIT 6.042.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Note 1 - Maths for CS MIT 6.042"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -285,18 +284,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e35fb23225c45e2c",
+  "active": "a1cbf17b018f1832",
   "lastOpenFiles": [
+    "Daily Notes/2026-01-29.md",
+    "Daily Notes/2026-01-22.md",
+    "Daily Notes/2026-01-23.md",
+    "Notes/Probability and Counting Stats110 L1.md",
+    "Notes/Note 1 - Maths for CS MIT 6.042.md",
+    "Notes/Maths for CS MIT 6.042 - Proofs.md",
     "Notes/Properties of Probability Stats 110 L3.2.md",
     "Notes/Conditional probability L4,5 Stat 110.md",
     "Notes/Birthday Problem Stats 110.md",
-    "Notes/Probability and Counting Stats110 L1.md",
-    "Notes/Note 1 - Maths for CS MIT 6.042.md",
     "Notes/Stats 110.md",
     "Notes/Story, Proof, Axiom of probability Stats110 L2.md",
     "Daily Notes/Entri Renewal Analysis.md",
-    "Daily Notes/2026-01-22.md",
-    "Daily Notes/2026-01-23.md",
     "Daily Notes/TAP Exploratory Strings.md",
     "Daily Notes/R2.md",
     "Daily Notes/R2 Call 2025-01-23.md",
@@ -311,8 +312,6 @@
     "Daily Notes/Keyword Data to be shared w Manbir.md",
     "Daily Notes/CI FTW Fix.md",
     "Notes/Prep IITM Code.md",
-    "Notes/Probability and Counting.md",
-    "Daily Notes/APM.md",
     "Keyword Data to be shared w",
     "GD NC Dec",
     "Attachment/IMG-20260110-WA0006.jpg",
