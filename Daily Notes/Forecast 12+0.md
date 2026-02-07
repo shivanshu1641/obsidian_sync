@@ -1,10 +1,6 @@
 ---
-created: 2025-12-25T15:31
-<<<<<<< HEAD:Daily Notes/Forecast 12+0.md
-updated: 2026-01-14T16:30
-=======
-updated: 2026-01-12T22:51
->>>>>>> origin/main:Daily Notes/12+0 Forecast.md
+created: 2026-01-15
+updated: 2026-02-06
 tags:
   - Work/recurring
 topics:
@@ -245,3 +241,5 @@ FROM
 
 WHERE reg_type = "premium_renew"
 ```
+
+All Done
