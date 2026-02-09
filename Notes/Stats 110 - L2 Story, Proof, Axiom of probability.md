@@ -5,19 +5,22 @@ excalidraw-plugin: parsed
 tags:
   - Study
 topics:
-  - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
   - "[[Reading]]"
 Status: TBD
 Prerequisites:
+  - "[[Stats 110 - L1,2 Probability and Counting]]"
+  - "[[Maths for CS 6.042]]"
 Sources:
+  - "[[Stats 110]]"
 Applies To:
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- 
+- Examples around pick with and without replacements
+- [[Story Proof for Probability]]
 ---
 ## Other Notes
 - 

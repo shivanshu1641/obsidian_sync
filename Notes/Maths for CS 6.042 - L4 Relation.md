@@ -5,7 +5,6 @@ excalidraw-plugin: parsed
 tags:
   - Study
 topics:
-  - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
@@ -13,6 +12,7 @@ type:
 Status: TBD
 Prerequisites:
 Sources:
+  - "[[Maths for CS 6.042]]"
 Applies To:
 ---
 ---

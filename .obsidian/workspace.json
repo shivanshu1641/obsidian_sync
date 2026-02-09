@@ -4,161 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "d31fe7be331bd082",
+        "id": "b670ea13fe6555e5",
         "type": "tabs",
         "children": [
           {
-            "id": "794156bfcb574846",
+            "id": "c660968cf7cbf172",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notes/Story, Proof, Axiom of probability Stats110 L2.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Story, Proof, Axiom of probability Stats110 L2"
-            }
-          },
-          {
-            "id": "4267e49854cfadd7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/R2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "R2"
-            }
-          },
-          {
-            "id": "6023c66a755a1004",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/R2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "R2"
-            }
-          },
-          {
-            "id": "804b3a5a9bcb4995",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/2026-01-22.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2026-01-22"
-            }
-          },
-          {
-            "id": "a1cbf17b018f1832",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Notes/Maths for CS MIT 6.042 - Proofs.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Maths for CS MIT 6.042 - Proofs"
-            }
-          },
-          {
-            "id": "6b0bef258db4c819",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Renewal Revenue 2026 + NPV Refresh 2026 Feb"
-            }
-          },
-          {
-            "id": "9915bdf995e6af00",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Forecast 12+0.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Forecast 12+0"
-            }
-          },
-          {
-            "id": "2d96c9eda00d129b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/NPV Runs for actual - Bug fix.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "NPV Runs for actual - Bug fix"
-            }
-          },
-          {
-            "id": "186db81c69fd542f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Entri Renewal Analysis.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Entri Renewal Analysis"
-            }
-          },
-          {
-            "id": "efaf47239ee7441b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Keyword Data to be shared w Manbir.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Keyword Data to be shared w Manbir"
-            }
-          },
-          {
-            "id": "b00798547c260762",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Dummy Data to be shared via GD.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Dummy Data to be shared via GD"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -243,7 +102,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 262.5
+    "width": 432.5
   },
   "right": {
     "id": "69e5223beb049438",
@@ -307,13 +166,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Notes/Maths for CS MIT 6.042 - Proofs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Maths for CS MIT 6.042 - Proofs"
+              "title": "Outline"
             }
           },
           {
@@ -339,12 +197,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/Maths for CS MIT 6.042 - Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Maths for CS MIT 6.042 - Proofs"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -367,34 +224,34 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "a1cbf17b018f1832",
+  "active": "da5c0ecdbbc87216",
   "lastOpenFiles": [
-    "Notes/Story, Proof, Axiom of probability Stats110 L2.md",
-    "Notes/Maths for CS MIT 6.042 - Proofs.md",
-    "Daily Notes/2026-02-05.md",
-    "Notes/Stats 110 Monty Hall & Simsons Paradox.md",
-    "Notes/Maths for CS 6.042 Pegionhole Principle.md",
-    "Notes/Maths for CS 6.042 Counting Generalized Counting.md",
-    "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
-    "Daily Notes/Forecast 12+0.md",
-    "Daily Notes/NPV Runs for actual - Bug fix.md",
-    "Daily Notes/Entri Renewal Analysis.md",
-    "Daily Notes/Keyword Data to be shared w Manbir.md",
+    "Notes/Maths for CS 6.042 - L9 Pegionhole Principle.md",
+    "Notes/Maths for CS 6.042 - L8 - Counting Sum & Products.md",
+    "Notes/Maths for CS 6.042 - L7 Counting Generalized Counting.md",
+    "Notes/Maths for CS 6.042 - L6 - Asymptotic Equivalence.md",
+    "Notes/Maths for CS 6.042 - L5 - Counting Sums.md",
+    "Notes/Maths for CS 6.042 - L4 Sets.md",
+    "Notes/Maths for CS 6.042 - L4 Relation.md",
+    "Notes/Maths for CS 6.042 - L4 Predicate Logic.md",
+    "Notes/Maths for CS 6.042 - L3 - Preposition.md",
+    "Notes/Maths for CS 6.042 - L1 Proofs.md",
+    "Notes/Maths for CS 6.042 - L2 Ordering.md",
+    "Notes/Stats 110 - L7 Gamblers Ruin.md",
+    "Notes/Stats 110 - L6 Monty Hall & Simsons Paradox.md",
+    "Notes/Stats 110 - L3.2 Properties of Probability.md",
+    "Notes/Stats 110 - L2 Story, Proof, Axiom of probability.md",
+    "Notes/Stats 110 - L1,2 Probability and Counting.md",
     "Daily Notes/Dummy Data to be shared via GD.md",
+    "Daily Notes/Keyword Data to be shared w Manbir.md",
+    "Daily Notes/Entri Renewal Analysis.md",
+    "Daily Notes/NPV Runs for actual - Bug fix.md",
+    "Daily Notes/Forecast 12+0.md",
+    "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
+    "Daily Notes/2026-01-22.md",
+    "Daily Notes/2026-02-05.md",
     "Daily Notes/Adhoc AP Data Send.md",
     "Daily Notes/2026-01-29.md",
-    "Notes/Maths for CS 6.042 Sets.md",
-    "Notes/Maths for CS 6.042 Relation.md",
-    "Notes/Maths for CS 6.042 Preposition.md",
-    "Notes/Maths for CS 6.042 Predicate Logic.md",
-    "Notes/Maths for CS 6.042 Counting Sums.md",
-    "Notes/Maths for CS 6.042 Counting Sum & Products.md",
-    "Notes/Maths for CS 6.042 Asymptotic Equivalence.md",
-    "Notes/Maths for CS 6.042 - Ordering.md",
-    "Daily Notes/2026-01-22.md",
-    "Daily Notes/2026-01-23.md",
-    "Notes/Probability and Counting Stats110 L1.md",
-    "Notes/Note 1 - Maths for CS MIT 6.042.md",
     "Keyword Data to be shared w",
     "GD NC Dec",
     "Attachment/IMG-20260110-WA0006.jpg",

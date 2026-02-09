@@ -5,25 +5,25 @@ excalidraw-plugin: parsed
 tags:
   - Study
 topics:
-  - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
   - "[[Reading]]"
 Status: TBD
 Prerequisites:
+  - "[[Stats 110 - L2 Story, Proof, Axiom of probability]]"
+  - "[[Maths for CS 6.042]]"
 Sources:
+  - "[[Stats 110]]"
 Applies To:
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- 
+- [[Matching Problem  - Demontmorts Problem]]
 ---
 ## Other Notes
-- 
+- [[Taylor Series]]
 ---
-## Resources
-- 
 # Excalidraw Data
 
 ## Text Elements

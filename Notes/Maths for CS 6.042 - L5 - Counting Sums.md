@@ -5,18 +5,22 @@ excalidraw-plugin: parsed
 tags:
   - Study
 topics:
-  - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
   - "[[Reading]]"
-Status: TBD
+Status: "[[Done]]"
 Prerequisites:
 Sources:
+  - "[[Maths for CS 6.042]]"
 Applies To:
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
+- [[Arithmatic Sum]]
+- [[Geometric Sum]]
+- [[Harmonic Sum]]
+- [[Maths for CS 6.042 - L6 - Asymptotic Equivalence]]
 - 
 ---
 ## Other Notes

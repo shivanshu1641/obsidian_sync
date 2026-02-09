@@ -5,7 +5,6 @@ excalidraw-plugin: parsed
 tags:
   - Study
 topics:
-  - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
@@ -13,14 +12,16 @@ type:
 Status: TBD
 Prerequisites:
 Sources:
+  - "[[Stats 110]]"
 Applies To:
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- 
+- [[Gamblers Ruin]]
+- Gamblers start with any amount and any prob of winning a round- prob of winning total game
 ---
 ## Other Notes
-- 
+- [[Difference Equation]]
 ---
 ## Resources
 - 

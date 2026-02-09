@@ -5,12 +5,11 @@ excalidraw-plugin: parsed
 tags:
   - Study
 topics:
-  - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
   - "[[Reading]]"
-Status: TBD
+Status: "[[Done]]"
 Prerequisites:
 Sources:
   - "[[Stats 110]]"
@@ -18,11 +17,14 @@ Applies To:
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- 
+- [[Probability]] and [[Counting]]
+- [[Binomial Thm]]
 ---
-## Other Notes
-- 
+## [[To Reads]]
+- [[Gambling Fermat and Pascals Correspondance]] 
 ---
+
+
 ## Resources
 - [[Stats 110]]
 - 

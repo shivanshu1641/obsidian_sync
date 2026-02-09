@@ -5,7 +5,6 @@ excalidraw-plugin: parsed
 tags:
   - Study
 topics:
-  - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
@@ -13,11 +12,13 @@ type:
 Status: TBD
 Prerequisites:
 Sources:
+  - "[[Maths for CS 6.042]]"
 Applies To:
 ---
 ---
 ## <font color="#1f497d">TOPICS</font>
-- 
+- [[P = NP]]
+- [[Ripple Carry Adder]]
 ---
 ## Other Notes
 - 

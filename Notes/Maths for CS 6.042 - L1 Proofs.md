@@ -5,7 +5,6 @@ excalidraw-plugin: parsed
 tags:
   - Study
 topics:
-  - "[[AI]]"
   - "[[Maths]]"
 type:
   - "[[Concepts]]"
@@ -13,11 +12,17 @@ type:
 Status: TBD
 Prerequisites:
 Sources:
-  - "[[MIT 6.042]]"
+  - "[[Maths for CS 6.042]]"
 Applies To:
+  - "[[Stats 110]]"
 ---
+
 ---
 ## <font color="#1f497d">TOPICS</font>
+- [[Pythagoras Theorem]]
+- [[Proof by Calculation]]
+- [[1 == -1]]
+- Example [[root 2 is irrational proof]]
 - 
 ---
 ## Other Notes
