@@ -224,8 +224,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "683552434d304e12",
@@ -370,8 +369,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e35fb23225c45e2c",
+  "active": "52c514d8b912b602",
   "lastOpenFiles": [
+    "Notes/Maths for CS 6.042 Pegionhole Principle.md",
+    "Notes/Maths for CS 6.042 Counting Generalized Counting.md",
     "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
     "Daily Notes/2026-02-05.md",
     "Daily Notes/Forecast 12+0.md",
@@ -396,8 +397,6 @@
     "Notes/Maths for CS MIT 6.042 - Proofs.md",
     "Notes/Properties of Probability Stats 110 L3.2.md",
     "Notes/Conditional probability L4,5 Stat 110.md",
-    "Notes/Birthday Problem Stats 110.md",
-    "Notes/Stats 110.md",
     "Keyword Data to be shared w",
     "GD NC Dec",
     "Attachment/IMG-20260110-WA0006.jpg",
