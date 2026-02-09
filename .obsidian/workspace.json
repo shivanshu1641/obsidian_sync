@@ -65,14 +65,12 @@
             "id": "a1cbf17b018f1832",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "Daily Notes/2026-02-05.md",
-                "mode": "source",
-                "source": false
+                "file": "Notes/Maths for CS MIT 6.042 - Proofs.md"
               },
-              "icon": "lucide-file",
-              "title": "2026-02-05"
+              "icon": "excalidraw-icon",
+              "title": "Maths for CS MIT 6.042 - Proofs"
             }
           },
           {
@@ -309,13 +307,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Daily Notes/2026-02-05.md",
+                "file": "Notes/Maths for CS MIT 6.042 - Proofs.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2026-02-05"
+              "title": "Outline of Maths for CS MIT 6.042 - Proofs"
             }
           },
           {
@@ -341,12 +339,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/2026-02-05.md",
+                "file": "Notes/Maths for CS MIT 6.042 - Proofs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2026-02-05"
+              "title": "Outgoing links from Maths for CS MIT 6.042 - Proofs"
             }
           }
         ]
@@ -369,12 +367,15 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "52c514d8b912b602",
+  "active": "a1cbf17b018f1832",
   "lastOpenFiles": [
+    "Notes/Story, Proof, Axiom of probability Stats110 L2.md",
+    "Notes/Maths for CS MIT 6.042 - Proofs.md",
+    "Daily Notes/2026-02-05.md",
+    "Notes/Stats 110 Monty Hall & Simsons Paradox.md",
     "Notes/Maths for CS 6.042 Pegionhole Principle.md",
     "Notes/Maths for CS 6.042 Counting Generalized Counting.md",
     "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
-    "Daily Notes/2026-02-05.md",
     "Daily Notes/Forecast 12+0.md",
     "Daily Notes/NPV Runs for actual - Bug fix.md",
     "Daily Notes/Entri Renewal Analysis.md",
@@ -394,9 +395,6 @@
     "Daily Notes/2026-01-23.md",
     "Notes/Probability and Counting Stats110 L1.md",
     "Notes/Note 1 - Maths for CS MIT 6.042.md",
-    "Notes/Maths for CS MIT 6.042 - Proofs.md",
-    "Notes/Properties of Probability Stats 110 L3.2.md",
-    "Notes/Conditional probability L4,5 Stat 110.md",
     "Keyword Data to be shared w",
     "GD NC Dec",
     "Attachment/IMG-20260110-WA0006.jpg",
