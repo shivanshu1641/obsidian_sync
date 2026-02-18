@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-02-10
+updated: 2026-02-18
 tags:
   - DailyNote
   - Work/recurring
@@ -12,7 +12,7 @@ Status: TBD
 Project:
   - "[[NPV Refresh]]"
 ---
-## Query
+## Rules Query
 ```
 
 CREATE OR REPLACE TABLE radixbi-249015.npv_data.dotserve_substitute_domains AS
@@ -7871,3 +7871,50 @@ UNION ALL
       AND "2025-12-31";
   
 ```
+
+
+Notes 
+
+-- actual review
+1. crazy store online domain bundle actual flat prod dip - to check 
+
+
+
+2023 actuals
+-- jimdo - check renrate same - npv high 50% ish, my renews assumpition
+
+2024 actuals
+united online 2024 - increase 5%
+
+
+
+Model Refresh
+23
+zoner-fi -- actuals around 100% check 
+domain.com - registrar -- subsq -  no data -- can add rule if needed -- keep it same as old preds
+
+24
+domain.com netsol - second increase -- can increae it further to match the level of domain.com - registrar (same for 25) around 65%
+
+
+
+communigal - second renews at 14%-- preds in line -- but are actuals supposed to be this low
+
+nc - second ren rate fell -- the preds should even be lower
+register.com -- secon renewal rate - -can discus if a rule is needed
+
+
+
+
+25
+gd store bundle subsq -- no data - old vs new 70 vs 80 -- store general subsq at 76-- can keep it at 80%
+
+crazy inclusions -- no data -- model predicting higher -can add rules and bring down if needed
+
+
+
+
+
+
+
+

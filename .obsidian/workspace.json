@@ -50,6 +50,20 @@
             }
           },
           {
+            "id": "d78230d1afdad6ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Renewal Revenue 2026 + NPV Refresh 2026 Feb"
+            }
+          },
+          {
             "id": "1690f8ec1ed106ba",
             "type": "leaf",
             "state": {
@@ -61,20 +75,6 @@
               },
               "icon": "lucide-file",
               "title": "R2"
-            }
-          },
-          {
-            "id": "44fc33fe7e9eb52c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Exploration Feb 2026.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Exploration Feb 2026"
             }
           },
           {
@@ -106,7 +106,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -139,7 +139,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "query",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -287,12 +287,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Exploration Feb 2026.md",
+                "file": "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Exploration Feb 2026"
+              "title": "Outgoing links from Renewal Revenue 2026 + NPV Refresh 2026 Feb"
             }
           }
         ]
@@ -315,13 +315,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "44fc33fe7e9eb52c",
+  "active": "d78230d1afdad6ca",
   "lastOpenFiles": [
     "Daily Notes/2026-02-05.md",
-    "Daily Notes/Exploration Feb 2026.md",
-    "Daily Notes/R2.md",
-    "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
     "Daily Notes/TAP Exploratory Strings.md",
+    "Daily Notes/R2.md",
+    "Notes/Maths for CS 6.042 - L1 Proofs.md",
+    "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
+    "Daily Notes/Exploration Feb 2026.md",
     "Notes/Maths for CS 6.042 - L9 Pegionhole Principle.md",
     "Notes/Maths for CS 6.042 - L8 - Counting Sum & Products.md",
     "Notes/Maths for CS 6.042 - L7 Counting Generalized Counting.md",
@@ -331,7 +332,6 @@
     "Notes/Maths for CS 6.042 - L4 Relation.md",
     "Notes/Maths for CS 6.042 - L4 Predicate Logic.md",
     "Notes/Maths for CS 6.042 - L3 - Preposition.md",
-    "Notes/Maths for CS 6.042 - L1 Proofs.md",
     "Notes/Maths for CS 6.042 - L2 Ordering.md",
     "Notes/Stats 110 - L7 Gamblers Ruin.md",
     "Notes/Stats 110 - L6 Monty Hall & Simsons Paradox.md",
