@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-02-12
+updated: 2026-02-25
 tags:
   - DailyNote
   - work/project
@@ -200,3 +200,19 @@ Based on String Theory Brainstorm meetings (Feb 9-10, 2026)
 - 3-5 candidates recommended for application
     
 - Clear data-driven rationale for each recommendation
+
+
+
+industry that will boom in next 10 yr
+	- Check new string addition
+- DP all keyword data list generated - done
+- EII in progress - done
+- DP Domain Split - Pending
+- .com renewed data 
+- Numerical Triangulation
+	- Whoisoverlap for all creates  -- as bkp 
+- add domain example
+- review files for new string + llm council
+- dp econ footprint  -done
+- Eii data evaluate
+OSM and Storeleads contains endswith split

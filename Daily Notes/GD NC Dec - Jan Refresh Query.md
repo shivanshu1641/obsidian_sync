@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-01-20
+updated: 2026-02-25
 tags:
   - work/Item
   - Work/recurring
@@ -488,3 +488,7 @@ FROM
 
 `radixbi-249015.ntld_renewals.nc_cust_level_preds_test`);
 ```
+
+
+- IN CN Store profitability check 
+	- and rule application for in cn space, store 

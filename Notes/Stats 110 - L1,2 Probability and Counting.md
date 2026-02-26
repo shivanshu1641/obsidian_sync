@@ -9,7 +9,7 @@ topics:
 type:
   - "[[Concepts]]"
   - "[[Reading]]"
-Status: "[[Done]]"
+Status:
 Prerequisites:
 Sources:
   - "[[Stats 110]]"

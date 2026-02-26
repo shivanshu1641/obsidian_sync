@@ -55,12 +55,82 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
+                "file": "Daily Notes/2026-02-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Renewal Revenue 2026 + NPV Refresh 2026 Feb"
+              "title": "2026-02-05"
+            }
+          },
+          {
+            "id": "155736ac09fe53a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/2026-02-05.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-05"
+            }
+          },
+          {
+            "id": "7d369b8559bc32b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Notes/Wiki Roulette 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Wiki Roulette 1"
+            }
+          },
+          {
+            "id": "92f6bf428a668c50",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/GD NC Dec - Jan Refresh Query.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GD NC Dec - Jan Refresh Query"
+            }
+          },
+          {
+            "id": "1b440ca3b40d8c2f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/13 month revenue 2026 q1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "13 month revenue 2026 q1"
+            }
+          },
+          {
+            "id": "f3330c4515035ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Daily Notes/Exploration Feb 2026.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Exploration Feb 2026"
             }
           },
           {
@@ -106,7 +176,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -287,12 +357,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Renewal Revenue 2026 + NPV Refresh 2026 Feb"
+              "title": "Outgoing links"
             }
           }
         ]
@@ -315,19 +384,27 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d78230d1afdad6ca",
+  "active": "da5c0ecdbbc87216",
   "lastOpenFiles": [
+    "Notes/Stats 110 - L1,2 Probability and Counting.md",
+    "Notes/Maths for CS 6.042 - L5 - Counting Sums.md",
+    "Done.md",
+    "Notes/Wiki Roulette 1.md",
+    "Daily Notes/2026-02-25.md",
+    "Daily Notes/GD NC Dec - Jan Refresh Query.md",
+    "Daily Notes/13 month revenue 2026 q1.md",
+    "Daily Notes/Exploration Feb 2026.md",
     "Daily Notes/2026-02-05.md",
+    "Daily Notes/R2 Dashboard Revier.md",
+    "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
+    "Daily Notes/Namify.md",
     "Daily Notes/TAP Exploratory Strings.md",
     "Daily Notes/R2.md",
     "Notes/Maths for CS 6.042 - L1 Proofs.md",
-    "Daily Notes/Renewal Revenue 2026 + NPV Refresh 2026 Feb.md",
-    "Daily Notes/Exploration Feb 2026.md",
     "Notes/Maths for CS 6.042 - L9 Pegionhole Principle.md",
     "Notes/Maths for CS 6.042 - L8 - Counting Sum & Products.md",
     "Notes/Maths for CS 6.042 - L7 Counting Generalized Counting.md",
     "Notes/Maths for CS 6.042 - L6 - Asymptotic Equivalence.md",
-    "Notes/Maths for CS 6.042 - L5 - Counting Sums.md",
     "Notes/Maths for CS 6.042 - L4 Sets.md",
     "Notes/Maths for CS 6.042 - L4 Relation.md",
     "Notes/Maths for CS 6.042 - L4 Predicate Logic.md",
@@ -335,14 +412,6 @@
     "Notes/Maths for CS 6.042 - L2 Ordering.md",
     "Notes/Stats 110 - L7 Gamblers Ruin.md",
     "Notes/Stats 110 - L6 Monty Hall & Simsons Paradox.md",
-    "Notes/Stats 110 - L3.2 Properties of Probability.md",
-    "Notes/Stats 110 - L2 Story, Proof, Axiom of probability.md",
-    "Notes/Stats 110 - L1,2 Probability and Counting.md",
-    "Daily Notes/Dummy Data to be shared via GD.md",
-    "Daily Notes/Keyword Data to be shared w Manbir.md",
-    "Daily Notes/Entri Renewal Analysis.md",
-    "Daily Notes/NPV Runs for actual - Bug fix.md",
-    "Daily Notes/Forecast 12+0.md",
     "Keyword Data to be shared w",
     "GD NC Dec",
     "Attachment/IMG-20260110-WA0006.jpg",

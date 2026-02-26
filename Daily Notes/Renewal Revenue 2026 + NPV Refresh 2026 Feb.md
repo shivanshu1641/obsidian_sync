@@ -1,6 +1,6 @@
 ---
 created: 2025-12-25T15:31
-updated: 2026-02-18
+updated: 2026-02-23
 tags:
   - DailyNote
   - Work/recurring
@@ -7879,16 +7879,24 @@ Notes
 1. crazy store online domain bundle actual flat prod dip - to check 
 
 
-
+22 actuals -- **jimdo arpt check** 
 2023 actuals
 -- jimdo - check renrate same - npv high 50% ish, my renews assumpition
 
+**add in a rule for future cycle of dom.com for 100% renewals**  --done 
+
+xiamenchina prices
 2024 actuals
 united online 2024 - increase 5%
 
 
 
-Model Refresh
+
+**domain.com - netsol make ren rate to doma.com registrar**
+
+ **ventra ip - pred check actual down**
+
+%% Model Refresh
 23
 zoner-fi -- actuals around 100% check 
 domain.com - registrar -- subsq -  no data -- can add rule if needed -- keep it same as old preds
@@ -7911,10 +7919,53 @@ gd store bundle subsq -- no data - old vs new 70 vs 80 -- store general subsq at
 
 crazy inclusions -- no data -- model predicting higher -can add rules and bring down if needed
 
+ %%
+
+22 model refresh
+**netsol site/online check**
+domcom all tlds
+reg price promo -- subsq lower -- but vol coming in future is higher 
+
+23 - nothing
+24
+ hostinger subsq all tlds predicted higher 
+
+
+25 - 
+crazy subsq up significant -- check if the actuals are correct and expected
+
+
+entri -- rules not getting applied due to the change delta
+spaceship -second subsq high - inline with trends, first rule should be removed very low actuals
+
+
+gname -- second ren rate check --close to actuals -- want to add some rule ??
+
+
+**1&1 store -- regprice promo -- rule needed ??** -- yes- 
+
+%% hover -- keep as is or as old  model  --rule needed ?? - not needed %%
+
+**sqspace -high vol rule needed** -- check
+**beacons to 12%**
+
+%% nc price change change checkin 
+abs renewal price check in %%
 
 
 
+**gdg model has no data -- but q1 some explicit renews have kicked in -- at 10% -- can add a rule for 5% -- no change**
 
 
+**entri -- all clients actual vs pred**
+**second renewal to be brought down**
 
+**crazy inclusions -- bring down**
 
+**zoner -- cross check with rashmita**
+
+**melbourne.it -- rule check w/ sahar**
+
+**gmo renewal upsell at 60% --add in rule**
+
+**domains info dans domain**
