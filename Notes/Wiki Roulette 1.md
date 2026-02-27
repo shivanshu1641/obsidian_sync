@@ -14,7 +14,7 @@ Applies To:
 ---
 https://en.wikipedia.org/wiki/Matsukura_Castle
 
-Castle located in japan 
+Castle located in japan ![[Diophentine Equation]]
 on the north and east end and forms an L
 has an height of 114x ft (300mt)
 
