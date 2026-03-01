@@ -23,8 +23,8 @@
       "template": "_templates/daily_template.md"
     },
     {
-      "folder": "w",
-      "template": "_templates/call template.md"
+      "folder": "Journal",
+      "template": "_templates/journal_template.md"
     }
   ],
   "enable_file_templates": false,
