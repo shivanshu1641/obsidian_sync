@@ -4,53 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "7f8272ac0340c993",
+        "id": "b78212f4ac9ef787",
         "type": "tabs",
         "children": [
           {
-            "id": "67fad84c36c02998",
+            "id": "e7f6f0f61eb56229",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Daily Notes/2026-03-01.md",
+                "file": "Journal/2025-03-04.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-03-01"
-            }
-          },
-          {
-            "id": "9a58208082e37fa2",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Daily Notes/Optimizer NC.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Optimizer NC"
-            }
-          },
-          {
-            "id": "e678cde2da5b0945",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Notes/IITM Prev Yr Question Paper.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "IITM Prev Yr Question Paper"
+              "title": "2025-03-04"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,12 +202,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Notes/IITM Prev Yr Question Paper.md",
+                "file": "Journal/2025-03-04.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from IITM Prev Yr Question Paper"
+              "title": "Outgoing links from 2025-03-04"
             }
           }
         ]
@@ -259,13 +230,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e678cde2da5b0945",
+  "active": "e7f6f0f61eb56229",
   "lastOpenFiles": [
+    "Journal/2025-03-01.md",
+    "Journal/2025-03-04.md",
     "Notes/IITM Prev Yr Question Paper.md",
+    "Daily Notes/2026-03-01.md",
+    "Notes/Stats 110 - L7.2 Random Variable.svg",
+    "Notes/Stats 110 - L7.2 Random Variable.md",
     "Daily Notes/NC Optimizer hourly analysis query.md",
     "Daily Notes/Optimizer NC.md",
-    "Daily Notes/2026-03-01.md",
-    "Journal/2025-03-01.md",
     "_templates/journal_template.md",
     "_templates/template.md",
     "_templates/daily_template.md",
@@ -292,12 +266,9 @@
     "Notes/Stats 110 - L7 Gamblers Ruin.md",
     "Notes/Stats 110 - L7 Gamblers Ruin.svg",
     "Notes/Stats 110 - L6 Monty Hall & Simsons Paradox.md",
-    "Notes/Stats 110 - L6 Monty Hall & Simsons Paradox.svg",
     "Notes/Stats 110 - L3.2 Properties of Probability.md",
     "Notes/Stats 110 - L2 Story, Proof, Axiom of probability.md",
     "Notes/Stats 110 - L1,2 Probability and Counting.md",
-    "Notes/Stats 110.md",
-    "Notes/SecLm MedLm.md",
     "Keyword Data to be shared w",
     "GD NC Dec",
     "Daily Notes/work",
